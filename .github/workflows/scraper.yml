@@ -23,6 +23,8 @@ jobs:
 
       - name: Run Scraper
         run: python scraper.py
+      - name: Pull latest changes
+        run: git pull --rebase origin main
 
       - name: Commit and Push JSON Data
         run: |
