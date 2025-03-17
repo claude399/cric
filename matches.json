@@ -13,7 +13,7 @@
         "tournament": "IPL",
         "matches": [
             {
-                "time": "22 Mar 13:00 4d 23h 26m",
+                "time": "22 Mar 13:00 4d 23h 14m",
                 "team1": "Indian Premier League",
                 "team2": "IPL"
             }
@@ -23,12 +23,12 @@
         "tournament": "UCL Womens",
         "matches": [
             {
-                "time": "18 Mar 17:45 1d 4h 11m",
+                "time": "18 Mar 17:45 1d 3h 59m",
                 "team1": "Real Madrid",
                 "team2": "Arsenal"
             },
             {
-                "time": "19 Mar 20:00 2d 6h 26m",
+                "time": "19 Mar 20:00 2d 6h 14m",
                 "team1": "Chelsea",
                 "team2": "Manchester City"
             }
@@ -38,22 +38,22 @@
         "tournament": "Nations League",
         "matches": [
             {
-                "time": "20 Mar 19:00 3d 5h 26m",
+                "time": "20 Mar 19:00 3d 5h 14m",
                 "team1": "Spain",
                 "team2": "Netherlands"
             },
             {
-                "time": "20 Mar 19:45 3d 6h 11m",
+                "time": "20 Mar 19:45 3d 5h 59m",
                 "team1": "Italy",
                 "team2": "Germany"
             },
             {
-                "time": "20 Mar 19:45 3d 6h 11m",
+                "time": "20 Mar 19:45 3d 5h 59m",
                 "team1": "Portugal",
                 "team2": "Denmark"
             },
             {
-                "time": "20 Mar 19:45 3d 6h 11m",
+                "time": "20 Mar 19:45 3d 5h 59m",
                 "team1": "France",
                 "team2": "Croatia"
             }
@@ -63,17 +63,17 @@
         "tournament": "Fifa World Cup (Q)",
         "matches": [
             {
-                "time": "21 Mar 00:45 3d 11h 11m",
+                "time": "21 Mar 00:45 3d 10h 59m",
                 "team1": "Brazil",
                 "team2": "Colombia"
             },
             {
-                "time": "21 Mar 19:45 4d 6h 11m",
+                "time": "21 Mar 19:45 4d 5h 59m",
                 "team1": "England",
                 "team2": "Albania"
             },
             {
-                "time": "24 Mar 19:45 7d 6h 11m",
+                "time": "24 Mar 19:45 7d 5h 59m",
                 "team1": "England",
                 "team2": "Latvia"
             }
