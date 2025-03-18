@@ -27,35 +27,35 @@
                         "v_con": "saskakas",
                         "v_dt": "545452333",
                         "final_url": "https://dlolcast.com/playurn.php?v=sonysixendia&secure=saskakas&expires=545452333",
-                        "streaming_url": "https://pv13.dlolcast.pro:7058/hls/sonysixendia.m3u8?md6=vmVCiUTFoEzmYrDflp3yNQ&expires=1742309984"
+                        "streaming_url": "https://pv13.dlolcast.pro:7058/hls/sonysixendia.m3u8?md6=mYL4VqZLMKzeFlV5v1hMzQ&expires=1742311716"
                     },
                     {
                         "fid": "bbtsp2",
                         "v_con": "saskakas",
                         "v_dt": "545452333",
                         "final_url": "https://dlolcast.com/playurn.php?v=bbtsp2&secure=saskakas&expires=545452333",
-                        "streaming_url": "https://pv13.dlolcast.pro:7058/hls/bbasdadtasfafgsdsgpgdg2s.m3u8?md6=MMZFLtHzLnJeYHCAcHqQ-w&expires=1742309985"
+                        "streaming_url": "https://pv13.dlolcast.pro:7058/hls/bbasdadtasfafgsdsgpgdg2s.m3u8?md6=Xeu3QTsroVuo4uRKAi--8A&expires=1742311718"
                     },
                     {
                         "fid": "criclife2",
                         "v_con": "saskakas",
                         "v_dt": "545452333",
                         "final_url": "https://dlolcast.com/playurn.php?v=criclife2&secure=saskakas&expires=545452333",
-                        "streaming_url": "https://pv13.dlolcast.pro:7058/hls/criclife2.m3u8?md6=x6vMnow17tYecQEBJ3iuag&expires=1742309986"
+                        "streaming_url": "https://pv13.dlolcast.pro:7058/hls/criclife2.m3u8?md6=eDELigz11BWhqv4uSza3xA&expires=1742311719"
                     },
                     {
                         "fid": "tenspk",
                         "v_con": "saskakas",
                         "v_dt": "545452333",
                         "final_url": "https://dlolcast.com/playurn.php?v=tenspk&secure=saskakas&expires=545452333",
-                        "streaming_url": "https://pv13.dlolcast.pro:7058/hls/tenspk.m3u8?md6=zVv-Oipcayl1GjLVIChwrw&expires=1742309987"
+                        "streaming_url": "https://pv13.dlolcast.pro:7058/hls/tenspk.m3u8?md6=D8sqya4sy1tjNMgwLmsHHg&expires=1742311720"
                     },
                     {
                         "fid": "super2cric",
                         "v_con": "saskakas",
                         "v_dt": "545452333",
                         "final_url": "https://dlolcast.com/playurn.php?v=super2cric&secure=saskakas&expires=545452333",
-                        "streaming_url": "https://pv13.dlolcast.pro:7058/hls/super2cric.m3u8?md6=iTrZCs-DVqNcurv9wttHUg&expires=1742309988"
+                        "streaming_url": "https://pv13.dlolcast.pro:7058/hls/super2cric.m3u8?md6=7ZtW6XcrO8NqpyaRVGMbMg&expires=1742311721"
                     }
                 ]
             }
@@ -65,7 +65,7 @@
         "tournament": "IPL",
         "matches": [
             {
-                "time": "22 Mar 13:00 3d 23h",
+                "time": "22 Mar 13:00 3d 22h 31m",
                 "team1": "Indian Premier League",
                 "team2": "IPL",
                 "match_url": "https://crichd.su/indian-premier-league",
@@ -74,7 +74,7 @@
                 "extracted_data": []
             },
             {
-                "time": "22 Mar 14:00 4d",
+                "time": "22 Mar 14:00 3d 23h 31m",
                 "team1": "Kolkata Knight Riders",
                 "team2": "Royal Challengers Bengaluru",
                 "match_url": "https://crichd.su/kkr-vs-rcb",
@@ -88,7 +88,7 @@
         "tournament": "UCL Womens",
         "matches": [
             {
-                "time": "18 Mar 17:45 3h 45m",
+                "time": "18 Mar 17:45 3h 16m",
                 "team1": "Real Madrid",
                 "team2": "Arsenal",
                 "match_url": "https://crichd.su/real-madrid-vs-arsenal",
@@ -104,12 +104,12 @@
                         "v_con": "saskakas",
                         "v_dt": "545452333",
                         "final_url": "https://dlolcast.com/playurn.php?v=bbtsp11&secure=saskakas&expires=545452333",
-                        "streaming_url": "https://pv13.dlolcast.pro:7058/hls/bmkbh4ts42pads1ad1ad.m3u8?md6=cCG0soQTa4mBDDzz4TyYdg&expires=1742309990"
+                        "streaming_url": "https://pv13.dlolcast.pro:7058/hls/bmkbh4ts42pads1ad1ad.m3u8?md6=tDtnkhYHF96PeR8L8hW4JQ&expires=1742311723"
                     }
                 ]
             },
             {
-                "time": "19 Mar 20:00 1d 6h",
+                "time": "19 Mar 20:00 1d 5h 31m",
                 "team1": "Chelsea",
                 "team2": "Manchester City",
                 "match_url": "https://crichd.su/chelsea-vs-manchester-city",
@@ -125,7 +125,7 @@
                         "v_con": "saskakas",
                         "v_dt": "545452333",
                         "final_url": "https://dlolcast.com/playurn.php?v=bbtsp11&secure=saskakas&expires=545452333",
-                        "streaming_url": "https://pv13.dlolcast.pro:7058/hls/bmkbh4ts42pads1ad1ad.m3u8?md6=gbda4yFKB3ux-RLsuUzjLQ&expires=1742309991"
+                        "streaming_url": "https://pv13.dlolcast.pro:7058/hls/bmkbh4ts42pads1ad1ad.m3u8?md6=LYkbVwF5ml7mksy9IM8L1g&expires=1742311724"
                     }
                 ]
             }
@@ -135,7 +135,7 @@
         "tournament": "Nations League",
         "matches": [
             {
-                "time": "20 Mar 19:00 2d 5h",
+                "time": "20 Mar 19:00 2d 4h 31m",
                 "team1": "Spain",
                 "team2": "Netherlands",
                 "match_url": "https://crichd.su/spain-vs-netherlands",
@@ -144,7 +144,7 @@
                 "extracted_data": []
             },
             {
-                "time": "20 Mar 19:45 2d 5h 45m",
+                "time": "20 Mar 19:45 2d 5h 16m",
                 "team1": "Italy",
                 "team2": "Germany",
                 "match_url": "https://crichd.su/italy-vs-germany",
@@ -153,7 +153,7 @@
                 "extracted_data": []
             },
             {
-                "time": "20 Mar 19:45 2d 5h 45m",
+                "time": "20 Mar 19:45 2d 5h 16m",
                 "team1": "Portugal",
                 "team2": "Denmark",
                 "match_url": "https://crichd.su/portugal-vs-denmark",
@@ -162,7 +162,7 @@
                 "extracted_data": []
             },
             {
-                "time": "20 Mar 19:45 2d 5h 45m",
+                "time": "20 Mar 19:45 2d 5h 16m",
                 "team1": "France",
                 "team2": "Croatia",
                 "match_url": "https://crichd.su/france-vs-croatia",
@@ -176,7 +176,7 @@
         "tournament": "Fifa World Cup (Q)",
         "matches": [
             {
-                "time": "21 Mar 00:45 2d 10h 45m",
+                "time": "21 Mar 00:45 2d 10h 16m",
                 "team1": "Brazil",
                 "team2": "Colombia",
                 "match_url": "https://crichd.su/brazil-vs-colombia",
@@ -194,7 +194,7 @@
                         "v_con": "saskakas",
                         "v_dt": "545452333",
                         "final_url": "https://dlolcast.com/playurn.php?v=viaplaysp1&secure=saskakas&expires=545452333",
-                        "streaming_url": "https://pv13.dlolcast.pro:7058/hls/viaplaysp1.m3u8?md6=tclbWOPQDOBXcl1HX9DcyQ&expires=1742309993"
+                        "streaming_url": "https://pv13.dlolcast.pro:7058/hls/viaplaysp1.m3u8?md6=yoivxojsUQRNhHzLBuxKbw&expires=1742311726"
                     }
                 ]
             }
@@ -204,7 +204,7 @@
         "tournament": "F1",
         "matches": [
             {
-                "time": "21 Mar 03:00 2d 13h",
+                "time": "21 Mar 03:00 2d 12h 31m",
                 "team1": "Chinese Grand Prix",
                 "team2": "F1",
                 "match_url": "https://crichd.su/chinese-grand-prix",
@@ -220,7 +220,7 @@
                         "v_con": "saskakas",
                         "v_dt": "545452333",
                         "final_url": "https://dlolcast.com/playurn.php?v=skysfor1&secure=saskakas&expires=545452333",
-                        "streaming_url": "https://pv13.dlolcast.pro:7058/hls/adkslknyospfqqorrs1tuvw.m3u8?md6=AtjZHqXODW3UZlClrBMOWQ&expires=1742309994"
+                        "streaming_url": "https://pv13.dlolcast.pro:7058/hls/adkslknyospfqqorrs1tuvw.m3u8?md6=2uy8hFBAX6lMlMR00e1BxQ&expires=1742311727"
                     }
                 ]
             }
