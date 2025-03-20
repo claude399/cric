@@ -3,7 +3,7 @@
         "tournament": "Nations League",
         "matches": [
             {
-                "time": "20 Mar 19:00 11h 19m",
+                "time": "20 Mar 19:00 11h 6m",
                 "team1": "Spain",
                 "team2": "Netherlands",
                 "match_url": "https://crichd.su/spain-vs-netherlands",
@@ -12,7 +12,7 @@
                 "extracted_data": []
             },
             {
-                "time": "20 Mar 19:45 12h 4m",
+                "time": "20 Mar 19:45 11h 51m",
                 "team1": "Italy",
                 "team2": "Germany",
                 "match_url": "https://crichd.su/italy-vs-germany",
@@ -21,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "20 Mar 19:45 12h 4m",
+                "time": "20 Mar 19:45 11h 51m",
                 "team1": "Portugal",
                 "team2": "Denmark",
                 "match_url": "https://crichd.su/portugal-vs-denmark",
@@ -30,7 +30,7 @@
                 "extracted_data": []
             },
             {
-                "time": "20 Mar 19:45 12h 4m",
+                "time": "20 Mar 19:45 11h 51m",
                 "team1": "France",
                 "team2": "Croatia",
                 "match_url": "https://crichd.su/france-vs-croatia",
@@ -44,7 +44,7 @@
         "tournament": "Fifa World Cup (Q)",
         "matches": [
             {
-                "time": "21 Mar 00:45 17h 4m",
+                "time": "21 Mar 00:45 16h 51m",
                 "team1": "Brazil",
                 "team2": "Colombia",
                 "match_url": "https://crichd.su/brazil-vs-colombia",
@@ -53,7 +53,7 @@
                 "extracted_data": []
             },
             {
-                "time": "21 Mar 19:45 1d 12h 4m",
+                "time": "21 Mar 19:45 1d 11h 51m",
                 "team1": "England",
                 "team2": "Albania",
                 "match_url": "https://crichd.su/england-vs-albania",
@@ -62,7 +62,7 @@
                 "extracted_data": []
             },
             {
-                "time": "21 Mar 23:30 1d 15h 49m",
+                "time": "21 Mar 23:30 1d 15h 36m",
                 "team1": "Argentina",
                 "team2": "Uruguay",
                 "match_url": "https://crichd.su/argentina-vs-uruguay",
@@ -76,7 +76,7 @@
         "tournament": "F1",
         "matches": [
             {
-                "time": "21 Mar 03:00 19h 19m",
+                "time": "21 Mar 03:00 19h 6m",
                 "team1": "Chinese Grand Prix",
                 "team2": "F1",
                 "match_url": "https://crichd.su/chinese-grand-prix",
@@ -90,7 +90,7 @@
         "tournament": "International",
         "matches": [
             {
-                "time": "21 Mar 06:00 22h 19m",
+                "time": "21 Mar 06:00 22h 6m",
                 "team1": "Pakistan",
                 "team2": "New Zealand",
                 "match_url": "https://crichd.su/pakistan-vs-new-zealand",
@@ -104,7 +104,7 @@
         "tournament": "IPL",
         "matches": [
             {
-                "time": "22 Mar 13:00 2d 5h 19m",
+                "time": "22 Mar 13:00 2d 5h 6m",
                 "team1": "Indian Premier League",
                 "team2": "IPL",
                 "match_url": "https://crichd.su/indian-premier-league",
@@ -113,7 +113,7 @@
                 "extracted_data": []
             },
             {
-                "time": "22 Mar 14:00 2d 6h 19m",
+                "time": "22 Mar 14:00 2d 6h 6m",
                 "team1": "Kolkata Knight Riders",
                 "team2": "Royal Challengers Bengaluru",
                 "match_url": "https://crichd.su/kkr-vs-rcb",
@@ -127,7 +127,7 @@
         "tournament": "UFC",
         "matches": [
             {
-                "time": "22 Mar 18:00 2d 10h 19m",
+                "time": "22 Mar 18:00 2d 10h 6m",
                 "team1": "Leon Edwards vs Sean Brady",
                 "team2": "UFC",
                 "match_url": "https://crichd.su/leon-edwards-vs-sean-brady",
