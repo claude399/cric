@@ -14,56 +14,6 @@
         ]
     },
     {
-        "tournament": "IPL",
-        "matches": [
-            {
-                "time": "22 Mar 13:00",
-                "team1": "Indian Premier League",
-                "team2": "IPL",
-                "match_url": "https://crichd.su/indian-premier-league",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            },
-            {
-                "time": "23 Mar 10:00 15h 5m",
-                "team1": "Sunrisers Hyderabad",
-                "team2": "Rajasthan Royals",
-                "match_url": "https://crichd.su/srh-vs-rr",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            },
-            {
-                "time": "23 Mar 14:00 19h 5m",
-                "team1": "Chennai Super Kings",
-                "team2": "Mumbai Indians",
-                "match_url": "https://crichd.su/csk-vs-mi",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            },
-            {
-                "time": "24 Mar 14:00 1d 19h 5m",
-                "team1": "Delhi Capitals",
-                "team2": "Lucknow Super Giants",
-                "match_url": "https://crichd.su/dc-vs-lsg",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            },
-            {
-                "time": "25 Mar 14:00 2d 19h 5m",
-                "team1": "Gujarat Titans",
-                "team2": "Punjab Kings",
-                "match_url": "https://crichd.su/gt-vs-pbks",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            }
-        ]
-    },
-    {
         "tournament": "UFC",
         "matches": [
             {
@@ -81,7 +31,7 @@
         "tournament": "International",
         "matches": [
             {
-                "time": "23 Mar 06:00 11h 5m",
+                "time": "23 Mar 06:00 10h 43m",
                 "team1": "Pakistan",
                 "team2": "New Zealand",
                 "match_url": "https://crichd.su/pakistan-vs-new-zealand",
@@ -92,10 +42,51 @@
         ]
     },
     {
+        "tournament": "IPL",
+        "matches": [
+            {
+                "time": "23 Mar 09:30 14h 13m",
+                "team1": "Indian Premier League",
+                "team2": "IPL",
+                "match_url": "https://crichd.su/indian-premier-league",
+                "channel_links": [],
+                "iframe_sources": [],
+                "extracted_data": []
+            },
+            {
+                "time": "23 Mar 10:00 14h 43m",
+                "team1": "Sunrisers Hyderabad",
+                "team2": "Rajasthan Royals",
+                "match_url": "https://crichd.su/srh-vs-rr",
+                "channel_links": [],
+                "iframe_sources": [],
+                "extracted_data": []
+            },
+            {
+                "time": "23 Mar 14:00 18h 43m",
+                "team1": "Chennai Super Kings",
+                "team2": "Mumbai Indians",
+                "match_url": "https://crichd.su/csk-vs-mi",
+                "channel_links": [],
+                "iframe_sources": [],
+                "extracted_data": []
+            },
+            {
+                "time": "24 Mar 14:00 1d 18h 43m",
+                "team1": "Delhi Capitals",
+                "team2": "Lucknow Super Giants",
+                "match_url": "https://crichd.su/dc-vs-lsg",
+                "channel_links": [],
+                "iframe_sources": [],
+                "extracted_data": []
+            }
+        ]
+    },
+    {
         "tournament": "Nations League",
         "matches": [
             {
-                "time": "23 Mar 19:45 1d 50m",
+                "time": "23 Mar 19:45 1d 28m",
                 "team1": "Italy",
                 "team2": "Germany",
                 "match_url": "https://crichd.su/italy-vs-germany",
@@ -104,7 +95,7 @@
                 "extracted_data": []
             },
             {
-                "time": "23 Mar 19:45 1d 50m",
+                "time": "23 Mar 19:45 1d 28m",
                 "team1": "Portugal",
                 "team2": "Denmark",
                 "match_url": "https://crichd.su/portugal-vs-denmark",
@@ -113,7 +104,7 @@
                 "extracted_data": []
             },
             {
-                "time": "23 Mar 19:45 1d 50m",
+                "time": "23 Mar 19:45 1d 28m",
                 "team1": "France",
                 "team2": "Croatia",
                 "match_url": "https://crichd.su/france-vs-croatia",
@@ -122,33 +113,10 @@
                 "extracted_data": []
             },
             {
-                "time": "23 Mar 19:45 1d 50m",
+                "time": "23 Mar 19:45 1d 28m",
                 "team1": "Spain",
                 "team2": "Netherlands",
                 "match_url": "https://crichd.su/spain-vs-netherlands",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            }
-        ]
-    },
-    {
-        "tournament": "Fifa World Cup (Q)",
-        "matches": [
-            {
-                "time": "24 Mar 19:45 2d 50m",
-                "team1": "England",
-                "team2": "Latvia",
-                "match_url": "https://crichd.su/england-vs-latvia",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            },
-            {
-                "time": "25 Mar 10:30 2d 15h 35m",
-                "team1": "Saudi Arabia",
-                "team2": "Japan",
-                "match_url": "https://crichd.su/saudi-arabia-vs-japan",
                 "channel_links": [],
                 "iframe_sources": [],
                 "extracted_data": []
