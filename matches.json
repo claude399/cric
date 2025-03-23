@@ -12,16 +12,7 @@
                 "extracted_data": []
             },
             {
-                "time": "23 Mar 14:00",
-                "team1": "Chennai Super Kings",
-                "team2": "Mumbai Indians",
-                "match_url": "https://crichd.su/csk-vs-mi",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            },
-            {
-                "time": "24 Mar 14:00 19h 29m",
+                "time": "24 Mar 14:00 19h 13m",
                 "team1": "Delhi Capitals",
                 "team2": "Lucknow Super Giants",
                 "match_url": "https://crichd.su/dc-vs-lsg",
@@ -30,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "25 Mar 14:00 1d 19h 29m",
+                "time": "25 Mar 14:00 1d 19h 13m",
                 "team1": "Gujarat Titans",
                 "team2": "Punjab Kings",
                 "match_url": "https://crichd.su/gt-vs-pbks",
@@ -44,7 +35,7 @@
         "tournament": "Nations League",
         "matches": [
             {
-                "time": "23 Mar 19:45 1h 14m",
+                "time": "23 Mar 19:45 58m",
                 "team1": "Italy",
                 "team2": "Germany",
                 "match_url": "https://crichd.su/italy-vs-germany",
@@ -53,7 +44,7 @@
                 "extracted_data": []
             },
             {
-                "time": "23 Mar 19:45 1h 14m",
+                "time": "23 Mar 19:45 58m",
                 "team1": "Portugal",
                 "team2": "Denmark",
                 "match_url": "https://crichd.su/portugal-vs-denmark",
@@ -62,7 +53,7 @@
                 "extracted_data": []
             },
             {
-                "time": "23 Mar 19:45 1h 14m",
+                "time": "23 Mar 19:45 58m",
                 "team1": "France",
                 "team2": "Croatia",
                 "match_url": "https://crichd.su/france-vs-croatia",
@@ -71,7 +62,7 @@
                 "extracted_data": []
             },
             {
-                "time": "23 Mar 19:45 1h 14m",
+                "time": "23 Mar 19:45 58m",
                 "team1": "Spain",
                 "team2": "Netherlands",
                 "match_url": "https://crichd.su/spain-vs-netherlands",
@@ -85,7 +76,7 @@
         "tournament": "Fifa World Cup (Q)",
         "matches": [
             {
-                "time": "24 Mar 19:45 1d 1h 14m",
+                "time": "24 Mar 19:45 1d 58m",
                 "team1": "England",
                 "team2": "Latvia",
                 "match_url": "https://crichd.su/england-vs-latvia",
@@ -94,7 +85,7 @@
                 "extracted_data": []
             },
             {
-                "time": "25 Mar 10:30 1d 15h 59m",
+                "time": "25 Mar 10:30 1d 15h 43m",
                 "team1": "Saudi Arabia",
                 "team2": "Japan",
                 "match_url": "https://crichd.su/saudi-arabia-vs-japan",
