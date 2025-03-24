@@ -3,7 +3,7 @@
         "tournament": "IPL",
         "matches": [
             {
-                "time": "23 Mar 09:30",
+                "time": "24 Mar 14:00 11m",
                 "team1": "Indian Premier League",
                 "team2": "IPL",
                 "match_url": "https://crichd.su/indian-premier-league",
@@ -12,7 +12,7 @@
                 "extracted_data": []
             },
             {
-                "time": "24 Mar 14:00 24m",
+                "time": "24 Mar 14:00 11m",
                 "team1": "Delhi Capitals",
                 "team2": "Lucknow Super Giants",
                 "match_url": "https://crichd.su/dc-vs-lsg",
@@ -21,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "25 Mar 14:00 1d 24m",
+                "time": "25 Mar 14:00 1d 11m",
                 "team1": "Gujarat Titans",
                 "team2": "Punjab Kings",
                 "match_url": "https://crichd.su/gt-vs-pbks",
@@ -35,7 +35,7 @@
         "tournament": "International",
         "matches": [
             {
-                "time": "26 Mar 06:00 1d 16h 24m",
+                "time": "26 Mar 06:00 1d 16h 11m",
                 "team1": "Pakistan",
                 "team2": "New Zealand",
                 "match_url": "https://crichd.su/pakistan-vs-new-zealand",
@@ -49,7 +49,7 @@
         "tournament": "Fifa World Cup (Q)",
         "matches": [
             {
-                "time": "24 Mar 19:45 6h 9m",
+                "time": "24 Mar 19:45 5h 56m",
                 "team1": "England",
                 "team2": "Latvia",
                 "match_url": "https://crichd.su/england-vs-latvia",
@@ -58,7 +58,7 @@
                 "extracted_data": []
             },
             {
-                "time": "25 Mar 10:30 20h 54m",
+                "time": "25 Mar 10:30 20h 41m",
                 "team1": "Saudi Arabia",
                 "team2": "Japan",
                 "match_url": "https://crichd.su/saudi-arabia-vs-japan",
@@ -67,7 +67,7 @@
                 "extracted_data": []
             },
             {
-                "time": "26 Mar 00:00 1d 10h 24m",
+                "time": "26 Mar 00:00 1d 10h 11m",
                 "team1": "Brazil",
                 "team2": "Argentina",
                 "match_url": "https://crichd.su/brazil-vs-argentina",
