@@ -12,7 +12,7 @@
                 "extracted_data": []
             },
             {
-                "time": "24 Mar 14:00 14h 11m",
+                "time": "24 Mar 14:00 13h 8m",
                 "team1": "Delhi Capitals",
                 "team2": "Lucknow Super Giants",
                 "match_url": "https://crichd.su/dc-vs-lsg",
@@ -21,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "25 Mar 14:00 1d 14h 11m",
+                "time": "25 Mar 14:00 1d 13h 8m",
                 "team1": "Gujarat Titans",
                 "team2": "Punjab Kings",
                 "match_url": "https://crichd.su/gt-vs-pbks",
@@ -35,7 +35,7 @@
         "tournament": "Fifa World Cup (Q)",
         "matches": [
             {
-                "time": "24 Mar 19:45 19h 56m",
+                "time": "24 Mar 19:45 18h 53m",
                 "team1": "England",
                 "team2": "Latvia",
                 "match_url": "https://crichd.su/england-vs-latvia",
@@ -44,10 +44,19 @@
                 "extracted_data": []
             },
             {
-                "time": "25 Mar 10:30 1d 10h 41m",
+                "time": "25 Mar 10:30 1d 9h 38m",
                 "team1": "Saudi Arabia",
                 "team2": "Japan",
                 "match_url": "https://crichd.su/saudi-arabia-vs-japan",
+                "channel_links": [],
+                "iframe_sources": [],
+                "extracted_data": []
+            },
+            {
+                "time": "26 Mar 00:00 1d 23h 8m",
+                "team1": "Brazil",
+                "team2": "Argentina",
+                "match_url": "https://crichd.su/brazil-vs-argentina",
                 "channel_links": [],
                 "iframe_sources": [],
                 "extracted_data": []
