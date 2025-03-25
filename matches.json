@@ -12,7 +12,7 @@
                 "extracted_data": []
             },
             {
-                "time": "25 Mar 14:00 2h 37m",
+                "time": "25 Mar 14:00 2h 23m",
                 "team1": "Gujarat Titans",
                 "team2": "Punjab Kings",
                 "match_url": "https://crichd.su/gt-vs-pbks",
@@ -21,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "26 Mar 14:00 1d 2h 37m",
+                "time": "26 Mar 14:00 1d 2h 23m",
                 "team1": "Kolkata Knight Riders",
                 "team2": "Rajasthan Royals",
                 "match_url": "https://crichd.su/kkr-vs-rr",
@@ -35,7 +35,7 @@
         "tournament": "International",
         "matches": [
             {
-                "time": "26 Mar 06:00 18h 37m",
+                "time": "26 Mar 06:00 18h 23m",
                 "team1": "Pakistan",
                 "team2": "New Zealand",
                 "match_url": "https://crichd.su/pakistan-vs-new-zealand",
@@ -58,7 +58,7 @@
                 "extracted_data": []
             },
             {
-                "time": "26 Mar 00:00 12h 37m",
+                "time": "26 Mar 00:00 12h 23m",
                 "team1": "Brazil",
                 "team2": "Argentina",
                 "match_url": "https://crichd.su/brazil-vs-argentina",
