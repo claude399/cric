@@ -21,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "26 Mar 14:00 22h 9m",
+                "time": "26 Mar 14:00 21h 44m",
                 "team1": "Kolkata Knight Riders",
                 "team2": "Rajasthan Royals",
                 "match_url": "https://crichd.su/kkr-vs-rr",
@@ -30,7 +30,7 @@
                 "extracted_data": []
             },
             {
-                "time": "27 Mar 14:00 1d 22h 9m",
+                "time": "27 Mar 14:00 1d 21h 44m",
                 "team1": "Lucknow Super Giants",
                 "team2": "Sunrisers Hyderabad",
                 "match_url": "https://crichd.su/lsg-vs-srh",
@@ -44,7 +44,7 @@
         "tournament": "International",
         "matches": [
             {
-                "time": "26 Mar 06:00 14h 9m",
+                "time": "26 Mar 06:00 13h 44m",
                 "team1": "Pakistan",
                 "team2": "New Zealand",
                 "match_url": "https://crichd.su/pakistan-vs-new-zealand",
@@ -58,7 +58,7 @@
         "tournament": "Asia Cup",
         "matches": [
             {
-                "time": "25 Mar 18:00 2h 9m",
+                "time": "25 Mar 18:00 1h 44m",
                 "team1": "Pakistan",
                 "team2": "Syria",
                 "match_url": "https://crichd.su/pakistan-vs-syria",
@@ -72,7 +72,7 @@
         "tournament": "Fifa World Cup (Q)",
         "matches": [
             {
-                "time": "26 Mar 00:00 8h 9m",
+                "time": "26 Mar 00:00 7h 44m",
                 "team1": "Brazil",
                 "team2": "Argentina",
                 "match_url": "https://crichd.su/brazil-vs-argentina",
