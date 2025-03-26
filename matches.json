@@ -12,7 +12,7 @@
                 "extracted_data": []
             },
             {
-                "time": "27 Mar 14:00 14h 42m",
+                "time": "27 Mar 14:00 14h 27m",
                 "team1": "Lucknow Super Giants",
                 "team2": "Sunrisers Hyderabad",
                 "match_url": "https://crichd.su/lsg-vs-srh",
@@ -21,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "28 Mar 14:00 1d 14h 42m",
+                "time": "28 Mar 14:00 1d 14h 27m",
                 "team1": "Royal Challengers Bengaluru",
                 "team2": "Chennai Super Kings",
                 "match_url": "https://crichd.su/rcb-vs-csk",
@@ -49,7 +49,7 @@
         "tournament": "LaLiga",
         "matches": [
             {
-                "time": "27 Mar 20:00 20h 42m",
+                "time": "27 Mar 20:00 20h 27m",
                 "team1": "Barcelona",
                 "team2": "Osasuna",
                 "match_url": "https://crichd.su/barcelona-vs-osasuna",
