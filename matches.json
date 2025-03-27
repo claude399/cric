@@ -21,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "28 Mar 14:00 23h 50m",
+                "time": "28 Mar 14:00 23h 24m",
                 "team1": "Royal Challengers Bengaluru",
                 "team2": "Chennai Super Kings",
                 "match_url": "https://crichd.su/rcb-vs-csk",
@@ -49,7 +49,7 @@
         "tournament": "LaLiga",
         "matches": [
             {
-                "time": "27 Mar 20:00 5h 50m",
+                "time": "27 Mar 20:00 5h 24m",
                 "team1": "Barcelona",
                 "team2": "Osasuna",
                 "match_url": "https://crichd.su/barcelona-vs-osasuna",
@@ -63,7 +63,7 @@
         "tournament": "EFL",
         "matches": [
             {
-                "time": "29 Mar 12:15 1d 22h 5m",
+                "time": "29 Mar 12:15 1d 21h 39m",
                 "team1": "Fulham",
                 "team2": "Crystal Palace",
                 "match_url": "https://crichd.su/fulham-vs-crystal-palace",
