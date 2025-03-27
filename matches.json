@@ -21,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "28 Mar 14:00 20h 22m",
+                "time": "28 Mar 14:00 20h 9m",
                 "team1": "Royal Challengers Bengaluru",
                 "team2": "Chennai Super Kings",
                 "match_url": "https://crichd.su/rcb-vs-csk",
@@ -30,7 +30,7 @@
                 "extracted_data": []
             },
             {
-                "time": "29 Mar 14:00 1d 20h 22m",
+                "time": "29 Mar 14:00 1d 20h 9m",
                 "team1": "Mumbai Indians",
                 "team2": "Gujarat Titans",
                 "match_url": "https://crichd.su/mi-vs-gt",
@@ -58,7 +58,7 @@
         "tournament": "LaLiga",
         "matches": [
             {
-                "time": "27 Mar 20:00 2h 22m",
+                "time": "27 Mar 20:00 2h 9m",
                 "team1": "Barcelona",
                 "team2": "Osasuna",
                 "match_url": "https://crichd.su/barcelona-vs-osasuna",
@@ -72,10 +72,19 @@
         "tournament": "EFL",
         "matches": [
             {
-                "time": "29 Mar 12:15 1d 18h 37m",
+                "time": "29 Mar 12:15 1d 18h 24m",
                 "team1": "Fulham",
                 "team2": "Crystal Palace",
                 "match_url": "https://crichd.su/fulham-vs-crystal-palace",
+                "channel_links": [],
+                "iframe_sources": [],
+                "extracted_data": []
+            },
+            {
+                "time": "29 Mar 17:15 1d 23h 24m",
+                "team1": "Nottingham Forest",
+                "team2": "Brighton & Hove Albion",
+                "match_url": "https://crichd.su/nottingham-forest-vs-brighton-hove-albion",
                 "channel_links": [],
                 "iframe_sources": [],
                 "extracted_data": []
