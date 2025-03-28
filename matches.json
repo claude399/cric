@@ -12,7 +12,7 @@
                 "extracted_data": []
             },
             {
-                "time": "28 Mar 14:00 54m",
+                "time": "28 Mar 14:00 25m",
                 "team1": "Royal Challengers Bengaluru",
                 "team2": "Chennai Super Kings",
                 "match_url": "https://crichd.su/rcb-vs-csk",
@@ -21,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "29 Mar 14:00 1d 54m",
+                "time": "29 Mar 14:00 1d 25m",
                 "team1": "Mumbai Indians",
                 "team2": "Gujarat Titans",
                 "match_url": "https://crichd.su/mi-vs-gt",
@@ -30,7 +30,7 @@
                 "extracted_data": []
             },
             {
-                "time": "30 Mar 10:00 1d 20h 54m",
+                "time": "30 Mar 10:00 1d 20h 25m",
                 "team1": "Sunrisers Hyderabad",
                 "team2": "Delhi Capitals",
                 "match_url": "https://crichd.su/srh-vs-dc",
@@ -58,7 +58,7 @@
         "tournament": "EFL",
         "matches": [
             {
-                "time": "29 Mar 12:15 23h 9m",
+                "time": "29 Mar 12:15 22h 40m",
                 "team1": "Fulham",
                 "team2": "Crystal Palace",
                 "match_url": "https://crichd.su/fulham-vs-crystal-palace",
@@ -67,7 +67,7 @@
                 "extracted_data": []
             },
             {
-                "time": "29 Mar 17:15 1d 4h 9m",
+                "time": "29 Mar 17:15 1d 3h 40m",
                 "team1": "Nottingham Forest",
                 "team2": "Brighton & Hove Albion",
                 "match_url": "https://crichd.su/nottingham-forest-vs-brighton-hove-albion",
@@ -76,7 +76,7 @@
                 "extracted_data": []
             },
             {
-                "time": "30 Mar 12:30 1d 23h 24m",
+                "time": "30 Mar 12:30 1d 22h 55m",
                 "team1": "Aston Villa",
                 "team2": "Preston North End",
                 "match_url": "https://crichd.su/aston-villa-vs-preston-north-end",
@@ -90,7 +90,7 @@
         "tournament": "LaLiga",
         "matches": [
             {
-                "time": "29 Mar 20:00 1d 6h 54m",
+                "time": "29 Mar 20:00 1d 6h 25m",
                 "team1": "Real Madrid",
                 "team2": "Leganes",
                 "match_url": "https://crichd.su/real-madrid-vs-leganes",
@@ -104,7 +104,7 @@
         "tournament": "UFC",
         "matches": [
             {
-                "time": "29 Mar 21:00 1d 7h 54m",
+                "time": "29 Mar 21:00 1d 7h 25m",
                 "team1": "Brandon Moreno vs Steve Erceg",
                 "team2": "UFC",
                 "match_url": "https://crichd.su/brandon-moreno-vs-steve-erceg",
