@@ -12,7 +12,7 @@
                 "extracted_data": []
             },
             {
-                "time": "28 Mar 14:00 11h 5m",
+                "time": "28 Mar 14:00 10h 25m",
                 "team1": "Royal Challengers Bengaluru",
                 "team2": "Chennai Super Kings",
                 "match_url": "https://crichd.su/rcb-vs-csk",
@@ -21,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "29 Mar 14:00 1d 11h 5m",
+                "time": "29 Mar 14:00 1d 10h 25m",
                 "team1": "Mumbai Indians",
                 "team2": "Gujarat Titans",
                 "match_url": "https://crichd.su/mi-vs-gt",
@@ -49,7 +49,7 @@
         "tournament": "EFL",
         "matches": [
             {
-                "time": "29 Mar 12:15 1d 9h 20m",
+                "time": "29 Mar 12:15 1d 8h 40m",
                 "team1": "Fulham",
                 "team2": "Crystal Palace",
                 "match_url": "https://crichd.su/fulham-vs-crystal-palace",
@@ -58,7 +58,7 @@
                 "extracted_data": []
             },
             {
-                "time": "29 Mar 17:15 1d 14h 20m",
+                "time": "29 Mar 17:15 1d 13h 40m",
                 "team1": "Nottingham Forest",
                 "team2": "Brighton & Hove Albion",
                 "match_url": "https://crichd.su/nottingham-forest-vs-brighton-hove-albion",
@@ -72,7 +72,7 @@
         "tournament": "LaLiga",
         "matches": [
             {
-                "time": "29 Mar 20:00 1d 17h 5m",
+                "time": "29 Mar 20:00 1d 16h 25m",
                 "team1": "Real Madrid",
                 "team2": "Leganes",
                 "match_url": "https://crichd.su/real-madrid-vs-leganes",
@@ -86,7 +86,7 @@
         "tournament": "UFC",
         "matches": [
             {
-                "time": "29 Mar 21:00 1d 18h 5m",
+                "time": "29 Mar 21:00 1d 17h 25m",
                 "team1": "Brandon Moreno vs Steve Erceg",
                 "team2": "UFC",
                 "match_url": "https://crichd.su/brandon-moreno-vs-steve-erceg",
