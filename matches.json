@@ -21,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "30 Mar 10:00 16h 44m",
+                "time": "30 Mar 10:00 16h 28m",
                 "team1": "Sunrisers Hyderabad",
                 "team2": "Delhi Capitals",
                 "match_url": "https://crichd.su/srh-vs-dc",
@@ -30,7 +30,7 @@
                 "extracted_data": []
             },
             {
-                "time": "30 Mar 14:00 20h 44m",
+                "time": "30 Mar 14:00 20h 28m",
                 "team1": "Chennai Super Kings",
                 "team2": "Rajasthan Royals",
                 "match_url": "https://crichd.su/csk-vs-rr",
@@ -39,7 +39,7 @@
                 "extracted_data": []
             },
             {
-                "time": "31 Mar 14:00 1d 20h 44m",
+                "time": "31 Mar 14:00 1d 20h 28m",
                 "team1": "Kolkata Knight Riders",
                 "team2": "Mumbai Indians",
                 "match_url": "https://crichd.su/kkr-vs-mi",
@@ -76,7 +76,7 @@
                 "extracted_data": []
             },
             {
-                "time": "30 Mar 12:30 19h 14m",
+                "time": "30 Mar 12:30 18h 58m",
                 "team1": "Aston Villa",
                 "team2": "Preston North End",
                 "match_url": "https://crichd.su/aston-villa-vs-preston-north-end",
@@ -85,7 +85,7 @@
                 "extracted_data": []
             },
             {
-                "time": "30 Mar 15:30 22h 14m",
+                "time": "30 Mar 15:30 21h 58m",
                 "team1": "Manchester City",
                 "team2": "AFC Bournemouth",
                 "match_url": "https://crichd.su/manchester-city-vs-bournemouth",
@@ -99,7 +99,7 @@
         "tournament": "LaLiga",
         "matches": [
             {
-                "time": "29 Mar 20:00 2h 44m",
+                "time": "29 Mar 20:00 2h 28m",
                 "team1": "Real Madrid",
                 "team2": "Leganes",
                 "match_url": "https://crichd.su/real-madrid-vs-leganes",
@@ -108,7 +108,7 @@
                 "extracted_data": []
             },
             {
-                "time": "30 Mar 14:15 20h 59m",
+                "time": "30 Mar 14:15 20h 43m",
                 "team1": "Barcelona",
                 "team2": "Girona",
                 "match_url": "https://crichd.su/barcelona-vs-girona",
@@ -122,7 +122,7 @@
         "tournament": "UFC",
         "matches": [
             {
-                "time": "29 Mar 21:00 3h 44m",
+                "time": "29 Mar 21:00 3h 28m",
                 "team1": "Brandon Moreno vs Steve Erceg",
                 "team2": "UFC",
                 "match_url": "https://crichd.su/brandon-moreno-vs-steve-erceg",
