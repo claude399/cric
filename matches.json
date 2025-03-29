@@ -12,7 +12,7 @@
                 "extracted_data": []
             },
             {
-                "time": "30 Mar 10:00 15h",
+                "time": "30 Mar 10:00 14h 39m",
                 "team1": "Sunrisers Hyderabad",
                 "team2": "Delhi Capitals",
                 "match_url": "https://crichd.su/srh-vs-dc",
@@ -21,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "30 Mar 14:00 19h",
+                "time": "30 Mar 14:00 18h 39m",
                 "team1": "Chennai Super Kings",
                 "team2": "Rajasthan Royals",
                 "match_url": "https://crichd.su/csk-vs-rr",
@@ -30,7 +30,7 @@
                 "extracted_data": []
             },
             {
-                "time": "31 Mar 14:00 1d 19h",
+                "time": "31 Mar 14:00 1d 18h 39m",
                 "team1": "Kolkata Knight Riders",
                 "team2": "Mumbai Indians",
                 "match_url": "https://crichd.su/kkr-vs-mi",
@@ -55,42 +55,10 @@
         ]
     },
     {
-        "tournament": "EFL",
-        "matches": [
-            {
-                "time": "29 Mar 17:15",
-                "team1": "Nottingham Forest",
-                "team2": "Brighton & Hove Albion",
-                "match_url": "https://crichd.su/nottingham-forest-vs-brighton-hove-albion",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            },
-            {
-                "time": "30 Mar 12:30 17h 30m",
-                "team1": "Aston Villa",
-                "team2": "Preston North End",
-                "match_url": "https://crichd.su/aston-villa-vs-preston-north-end",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            },
-            {
-                "time": "30 Mar 15:30 20h 30m",
-                "team1": "Manchester City",
-                "team2": "AFC Bournemouth",
-                "match_url": "https://crichd.su/manchester-city-vs-bournemouth",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            }
-        ]
-    },
-    {
         "tournament": "LaLiga",
         "matches": [
             {
-                "time": "29 Mar 20:00 1h",
+                "time": "29 Mar 20:00 39m",
                 "team1": "Real Madrid",
                 "team2": "Leganes",
                 "match_url": "https://crichd.su/real-madrid-vs-leganes",
@@ -99,7 +67,7 @@
                 "extracted_data": []
             },
             {
-                "time": "30 Mar 14:15 19h 15m",
+                "time": "30 Mar 14:15 18h 54m",
                 "team1": "Barcelona",
                 "team2": "Girona",
                 "match_url": "https://crichd.su/barcelona-vs-girona",
@@ -113,10 +81,33 @@
         "tournament": "UFC",
         "matches": [
             {
-                "time": "29 Mar 21:00 2h",
+                "time": "29 Mar 21:00 1h 39m",
                 "team1": "Brandon Moreno vs Steve Erceg",
                 "team2": "UFC",
                 "match_url": "https://crichd.su/brandon-moreno-vs-steve-erceg",
+                "channel_links": [],
+                "iframe_sources": [],
+                "extracted_data": []
+            }
+        ]
+    },
+    {
+        "tournament": "EFL",
+        "matches": [
+            {
+                "time": "30 Mar 12:30 17h 9m",
+                "team1": "Aston Villa",
+                "team2": "Preston North End",
+                "match_url": "https://crichd.su/aston-villa-vs-preston-north-end",
+                "channel_links": [],
+                "iframe_sources": [],
+                "extracted_data": []
+            },
+            {
+                "time": "30 Mar 15:30 20h 9m",
+                "team1": "Manchester City",
+                "team2": "AFC Bournemouth",
+                "match_url": "https://crichd.su/manchester-city-vs-bournemouth",
                 "channel_links": [],
                 "iframe_sources": [],
                 "extracted_data": []
