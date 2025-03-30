@@ -21,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "31 Mar 14:00 22h 48m",
+                "time": "31 Mar 14:00 22h 29m",
                 "team1": "Kolkata Knight Riders",
                 "team2": "Mumbai Indians",
                 "match_url": "https://crichd.su/kkr-vs-mi",
@@ -30,7 +30,7 @@
                 "extracted_data": []
             },
             {
-                "time": "01 Apr 14:00 1d 22h 48m",
+                "time": "01 Apr 14:00 1d 22h 29m",
                 "team1": "Lucknow Super Giants",
                 "team2": "Punjab Kings",
                 "match_url": "https://crichd.su/lsg-vs-pbks",
@@ -55,29 +55,6 @@
         ]
     },
     {
-        "tournament": "EFL",
-        "matches": [
-            {
-                "time": "30 Mar 12:30",
-                "team1": "Aston Villa",
-                "team2": "Preston North End",
-                "match_url": "https://crichd.su/aston-villa-vs-preston-north-end",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            },
-            {
-                "time": "30 Mar 15:30 18m",
-                "team1": "Manchester City",
-                "team2": "AFC Bournemouth",
-                "match_url": "https://crichd.su/manchester-city-vs-bournemouth",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            }
-        ]
-    },
-    {
         "tournament": "LaLiga",
         "matches": [
             {
@@ -85,6 +62,20 @@
                 "team1": "Barcelona",
                 "team2": "Girona",
                 "match_url": "https://crichd.su/barcelona-vs-girona",
+                "channel_links": [],
+                "iframe_sources": [],
+                "extracted_data": []
+            }
+        ]
+    },
+    {
+        "tournament": "EFL",
+        "matches": [
+            {
+                "time": "30 Mar 15:30",
+                "team1": "Manchester City",
+                "team2": "AFC Bournemouth",
+                "match_url": "https://crichd.su/manchester-city-vs-bournemouth",
                 "channel_links": [],
                 "iframe_sources": [],
                 "extracted_data": []
