@@ -12,15 +12,6 @@
                 "extracted_data": []
             },
             {
-                "time": "30 Mar 10:00",
-                "team1": "Sunrisers Hyderabad",
-                "team2": "Delhi Capitals",
-                "match_url": "https://crichd.su/srh-vs-dc",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            },
-            {
                 "time": "30 Mar 14:00",
                 "team1": "Chennai Super Kings",
                 "team2": "Rajasthan Royals",
@@ -30,10 +21,19 @@
                 "extracted_data": []
             },
             {
-                "time": "31 Mar 14:00 23h 40m",
+                "time": "31 Mar 14:00 23h 22m",
                 "team1": "Kolkata Knight Riders",
                 "team2": "Mumbai Indians",
                 "match_url": "https://crichd.su/kkr-vs-mi",
+                "channel_links": [],
+                "iframe_sources": [],
+                "extracted_data": []
+            },
+            {
+                "time": "01 Apr 14:00 1d 23h 22m",
+                "team1": "Lucknow Super Giants",
+                "team2": "Punjab Kings",
+                "match_url": "https://crichd.su/lsg-vs-pbks",
                 "channel_links": [],
                 "iframe_sources": [],
                 "extracted_data": []
@@ -67,7 +67,7 @@
                 "extracted_data": []
             },
             {
-                "time": "30 Mar 15:30 1h 10m",
+                "time": "30 Mar 15:30 52m",
                 "team1": "Manchester City",
                 "team2": "AFC Bournemouth",
                 "match_url": "https://crichd.su/manchester-city-vs-bournemouth",
