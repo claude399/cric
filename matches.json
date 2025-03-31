@@ -3,7 +3,7 @@
         "tournament": "IPL",
         "matches": [
             {
-                "time": "31 Mar 14:00 1m",
+                "time": "31 Mar 14:00",
                 "team1": "Indian Premier League",
                 "team2": "IPL",
                 "match_url": "https://crichd.su/indian-premier-league",
@@ -12,7 +12,7 @@
                 "extracted_data": []
             },
             {
-                "time": "31 Mar 14:00 1m",
+                "time": "31 Mar 14:00",
                 "team1": "Kolkata Knight Riders",
                 "team2": "Mumbai Indians",
                 "match_url": "https://crichd.su/kkr-vs-mi",
@@ -21,10 +21,19 @@
                 "extracted_data": []
             },
             {
-                "time": "01 Apr 14:00 1d 1m",
+                "time": "01 Apr 14:00 23h 32m",
                 "team1": "Lucknow Super Giants",
                 "team2": "Punjab Kings",
                 "match_url": "https://crichd.su/lsg-vs-pbks",
+                "channel_links": [],
+                "iframe_sources": [],
+                "extracted_data": []
+            },
+            {
+                "time": "02 Apr 14:00 1d 23h 32m",
+                "team1": "Royal Challengers Bengaluru",
+                "team2": "Gujarat Titans",
+                "match_url": "https://crichd.su/rcb-vs-gt",
                 "channel_links": [],
                 "iframe_sources": [],
                 "extracted_data": []
@@ -35,7 +44,7 @@
         "tournament": "Premier League",
         "matches": [
             {
-                "time": "01 Apr 18:45 1d 4h 46m",
+                "time": "01 Apr 18:45 1d 4h 17m",
                 "team1": "Arsenal",
                 "team2": "Fulham",
                 "match_url": "https://crichd.su/arsenal-vs-fulham",
@@ -44,7 +53,7 @@
                 "extracted_data": []
             },
             {
-                "time": "01 Apr 18:45 1d 4h 46m",
+                "time": "01 Apr 18:45 1d 4h 17m",
                 "team1": "West Ham United",
                 "team2": "Wolverhampton Wanderers",
                 "match_url": "https://crichd.su/west-ham-united-vs-wolverhampton-wanderers",
@@ -53,7 +62,7 @@
                 "extracted_data": []
             },
             {
-                "time": "01 Apr 19:00 1d 5h 1m",
+                "time": "01 Apr 19:00 1d 4h 32m",
                 "team1": "Manchester United",
                 "team2": "Nottingham Forest",
                 "match_url": "https://crichd.su/manchester-united-vs-nottingham-forest",
@@ -67,7 +76,7 @@
         "tournament": "Copa Del Rey",
         "matches": [
             {
-                "time": "01 Apr 19:30 1d 5h 31m",
+                "time": "01 Apr 19:30 1d 5h 2m",
                 "team1": "Real Madrid",
                 "team2": "Real Sociedad",
                 "match_url": "https://crichd.su/real-madrid-vs-real-sociedad",
@@ -81,7 +90,7 @@
         "tournament": "International",
         "matches": [
             {
-                "time": "01 Apr 21:45 1d 7h 46m",
+                "time": "01 Apr 21:45 1d 7h 17m",
                 "team1": "Pakistan",
                 "team2": "New Zealand",
                 "match_url": "https://crichd.su/pakistan-vs-new-zealand",
