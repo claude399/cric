@@ -21,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "01 Apr 14:00 20h 44m",
+                "time": "01 Apr 14:00 20h 25m",
                 "team1": "Lucknow Super Giants",
                 "team2": "Punjab Kings",
                 "match_url": "https://crichd.su/lsg-vs-pbks",
@@ -30,7 +30,7 @@
                 "extracted_data": []
             },
             {
-                "time": "02 Apr 14:00 1d 20h 44m",
+                "time": "02 Apr 14:00 1d 20h 25m",
                 "team1": "Royal Challengers Bengaluru",
                 "team2": "Gujarat Titans",
                 "match_url": "https://crichd.su/rcb-vs-gt",
@@ -44,7 +44,7 @@
         "tournament": "Premier League",
         "matches": [
             {
-                "time": "01 Apr 18:45 1d 1h 29m",
+                "time": "01 Apr 18:45 1d 1h 10m",
                 "team1": "Arsenal",
                 "team2": "Fulham",
                 "match_url": "https://crichd.su/arsenal-vs-fulham",
@@ -53,7 +53,7 @@
                 "extracted_data": []
             },
             {
-                "time": "01 Apr 18:45 1d 1h 29m",
+                "time": "01 Apr 18:45 1d 1h 10m",
                 "team1": "West Ham United",
                 "team2": "Wolverhampton Wanderers",
                 "match_url": "https://crichd.su/west-ham-united-vs-wolverhampton-wanderers",
@@ -62,7 +62,7 @@
                 "extracted_data": []
             },
             {
-                "time": "01 Apr 19:00 1d 1h 44m",
+                "time": "01 Apr 19:00 1d 1h 25m",
                 "team1": "Manchester United",
                 "team2": "Nottingham Forest",
                 "match_url": "https://crichd.su/manchester-united-vs-nottingham-forest",
@@ -76,7 +76,7 @@
         "tournament": "Copa Del Rey",
         "matches": [
             {
-                "time": "01 Apr 19:30 1d 2h 14m",
+                "time": "01 Apr 19:30 1d 1h 55m",
                 "team1": "Real Madrid",
                 "team2": "Real Sociedad",
                 "match_url": "https://crichd.su/real-madrid-vs-real-sociedad",
@@ -90,7 +90,7 @@
         "tournament": "International",
         "matches": [
             {
-                "time": "01 Apr 21:45 1d 4h 29m",
+                "time": "01 Apr 21:45 1d 4h 10m",
                 "team1": "Pakistan",
                 "team2": "New Zealand",
                 "match_url": "https://crichd.su/pakistan-vs-new-zealand",
