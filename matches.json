@@ -12,7 +12,7 @@
                 "extracted_data": []
             },
             {
-                "time": "02 Apr 14:00 16h 28m",
+                "time": "02 Apr 14:00 16h 15m",
                 "team1": "Royal Challengers Bengaluru",
                 "team2": "Gujarat Titans",
                 "match_url": "https://crichd.su/rcb-vs-gt",
@@ -21,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "03 Apr 14:00 1d 16h 28m",
+                "time": "03 Apr 14:00 1d 16h 15m",
                 "team1": "Kolkata Knight Riders",
                 "team2": "Sunrisers Hyderabad",
                 "match_url": "https://crichd.su/kkr-vs-srh",
@@ -62,7 +62,7 @@
                 "extracted_data": []
             },
             {
-                "time": "02 Apr 18:45 21h 13m",
+                "time": "02 Apr 18:45 21h",
                 "team1": "AFC Bournemouth",
                 "team2": "Ipswich Town",
                 "match_url": "https://crichd.su/afc-bournemouth-vs-ipswich-town",
@@ -71,7 +71,7 @@
                 "extracted_data": []
             },
             {
-                "time": "02 Apr 18:45 21h 13m",
+                "time": "02 Apr 18:45 21h",
                 "team1": "Brighton & Hove Albion",
                 "team2": "Aston Villa",
                 "match_url": "https://crichd.su/brighton-hove-albion-vs-aston-villa",
@@ -80,7 +80,7 @@
                 "extracted_data": []
             },
             {
-                "time": "02 Apr 18:45 21h 13m",
+                "time": "02 Apr 18:45 21h",
                 "team1": "Newcastle United",
                 "team2": "Brentford",
                 "match_url": "https://crichd.su/newcastle-united-vs-brentford",
@@ -89,7 +89,7 @@
                 "extracted_data": []
             },
             {
-                "time": "02 Apr 18:45 21h 13m",
+                "time": "02 Apr 18:45 21h",
                 "team1": "Southampton",
                 "team2": "Crystal Palace",
                 "match_url": "https://crichd.su/southampton-vs-crystal-palace",
@@ -98,7 +98,7 @@
                 "extracted_data": []
             },
             {
-                "time": "02 Apr 19:45 22h 13m",
+                "time": "02 Apr 19:45 22h",
                 "team1": "Manchester City",
                 "team2": "Leicester City",
                 "match_url": "https://crichd.su/manchester-city-vs-leicester-city",
@@ -107,7 +107,7 @@
                 "extracted_data": []
             },
             {
-                "time": "02 Apr 20:00 22h 28m",
+                "time": "02 Apr 20:00 22h 15m",
                 "team1": "Liverpool",
                 "team2": "Everton",
                 "match_url": "https://crichd.su/liverpool-vs-everton",
@@ -116,7 +116,7 @@
                 "extracted_data": []
             },
             {
-                "time": "03 Apr 19:00 1d 21h 28m",
+                "time": "03 Apr 19:00 1d 21h 15m",
                 "team1": "Chelsea",
                 "team2": "Tottenham Hotspur",
                 "match_url": "https://crichd.su/chelsea-vs-tottenham-hotspur",
@@ -139,7 +139,7 @@
                 "extracted_data": []
             },
             {
-                "time": "02 Apr 19:30 21h 58m",
+                "time": "02 Apr 19:30 21h 45m",
                 "team1": "Barcelona",
                 "team2": "Atletico Madrid",
                 "match_url": "https://crichd.su/barcelona-vs-atletico-madrid",
@@ -153,7 +153,7 @@
         "tournament": "International",
         "matches": [
             {
-                "time": "01 Apr 21:45 13m",
+                "time": "01 Apr 21:45",
                 "team1": "Pakistan",
                 "team2": "New Zealand",
                 "match_url": "https://crichd.su/pakistan-vs-new-zealand",
@@ -167,7 +167,7 @@
         "tournament": "Coppa Italia",
         "matches": [
             {
-                "time": "02 Apr 19:00 21h 28m",
+                "time": "02 Apr 19:00 21h 15m",
                 "team1": "Inter Milan",
                 "team2": "AC Milan",
                 "match_url": "https://crichd.su/inter-milan-vs-ac-milan",
