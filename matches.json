@@ -12,16 +12,7 @@
                 "extracted_data": []
             },
             {
-                "time": "02 Apr 14:00",
-                "team1": "Royal Challengers Bengaluru",
-                "team2": "Gujarat Titans",
-                "match_url": "https://crichd.su/rcb-vs-gt",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            },
-            {
-                "time": "03 Apr 14:00 20h 12m",
+                "time": "03 Apr 14:00 19h 49m",
                 "team1": "Kolkata Knight Riders",
                 "team2": "Sunrisers Hyderabad",
                 "match_url": "https://crichd.su/kkr-vs-srh",
@@ -30,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "04 Apr 14:00 1d 20h 12m",
+                "time": "04 Apr 14:00 1d 19h 49m",
                 "team1": "Mumbai Indians",
                 "team2": "Lucknow Super Giants",
                 "match_url": "https://crichd.su/mi-vs-lsg",
@@ -58,7 +49,7 @@
         "tournament": "Premier League",
         "matches": [
             {
-                "time": "02 Apr 18:45 57m",
+                "time": "02 Apr 18:45 34m",
                 "team1": "AFC Bournemouth",
                 "team2": "Ipswich Town",
                 "match_url": "https://crichd.su/afc-bournemouth-vs-ipswich-town",
@@ -67,7 +58,7 @@
                 "extracted_data": []
             },
             {
-                "time": "02 Apr 18:45 57m",
+                "time": "02 Apr 18:45 34m",
                 "team1": "Brighton & Hove Albion",
                 "team2": "Aston Villa",
                 "match_url": "https://crichd.su/brighton-hove-albion-vs-aston-villa",
@@ -76,7 +67,7 @@
                 "extracted_data": []
             },
             {
-                "time": "02 Apr 18:45 57m",
+                "time": "02 Apr 18:45 34m",
                 "team1": "Newcastle United",
                 "team2": "Brentford",
                 "match_url": "https://crichd.su/newcastle-united-vs-brentford",
@@ -85,7 +76,7 @@
                 "extracted_data": []
             },
             {
-                "time": "02 Apr 18:45 57m",
+                "time": "02 Apr 18:45 34m",
                 "team1": "Southampton",
                 "team2": "Crystal Palace",
                 "match_url": "https://crichd.su/southampton-vs-crystal-palace",
@@ -94,7 +85,7 @@
                 "extracted_data": []
             },
             {
-                "time": "02 Apr 19:45 1h 57m",
+                "time": "02 Apr 19:45 1h 34m",
                 "team1": "Manchester City",
                 "team2": "Leicester City",
                 "match_url": "https://crichd.su/manchester-city-vs-leicester-city",
@@ -103,7 +94,7 @@
                 "extracted_data": []
             },
             {
-                "time": "02 Apr 20:00 2h 12m",
+                "time": "02 Apr 20:00 1h 49m",
                 "team1": "Liverpool",
                 "team2": "Everton",
                 "match_url": "https://crichd.su/liverpool-vs-everton",
@@ -112,7 +103,7 @@
                 "extracted_data": []
             },
             {
-                "time": "03 Apr 19:00 1d 1h 12m",
+                "time": "03 Apr 19:00 1d 49m",
                 "team1": "Chelsea",
                 "team2": "Tottenham Hotspur",
                 "match_url": "https://crichd.su/chelsea-vs-tottenham-hotspur",
@@ -126,7 +117,7 @@
         "tournament": "Coppa Italia",
         "matches": [
             {
-                "time": "02 Apr 19:00 1h 12m",
+                "time": "02 Apr 19:00 49m",
                 "team1": "Inter Milan",
                 "team2": "AC Milan",
                 "match_url": "https://crichd.su/inter-milan-vs-ac-milan",
@@ -140,7 +131,7 @@
         "tournament": "Copa Del Rey",
         "matches": [
             {
-                "time": "02 Apr 19:30 1h 42m",
+                "time": "02 Apr 19:30 1h 19m",
                 "team1": "Barcelona",
                 "team2": "Atletico Madrid",
                 "match_url": "https://crichd.su/barcelona-vs-atletico-madrid",
@@ -154,7 +145,7 @@
         "tournament": "F1",
         "matches": [
             {
-                "time": "04 Apr 02:00 1d 8h 12m",
+                "time": "04 Apr 02:00 1d 7h 49m",
                 "team1": "Japanese Grand Prix",
                 "team2": "F1",
                 "match_url": "https://crichd.su/japanese-grand-prix",
