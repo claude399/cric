@@ -12,7 +12,7 @@
                 "extracted_data": []
             },
             {
-                "time": "03 Apr 14:00 16h 9m",
+                "time": "03 Apr 14:00 15h 47m",
                 "team1": "Kolkata Knight Riders",
                 "team2": "Sunrisers Hyderabad",
                 "match_url": "https://crichd.su/kkr-vs-srh",
@@ -21,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "04 Apr 14:00 1d 16h 9m",
+                "time": "04 Apr 14:00 1d 15h 47m",
                 "team1": "Mumbai Indians",
                 "team2": "Lucknow Super Giants",
                 "match_url": "https://crichd.su/mi-vs-lsg",
@@ -46,24 +46,10 @@
         ]
     },
     {
-        "tournament": "Copa Del Rey",
-        "matches": [
-            {
-                "time": "02 Apr 19:30",
-                "team1": "Barcelona",
-                "team2": "Atletico Madrid",
-                "match_url": "https://crichd.su/barcelona-vs-atletico-madrid",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            }
-        ]
-    },
-    {
         "tournament": "Premier League",
         "matches": [
             {
-                "time": "03 Apr 19:00 21h 9m",
+                "time": "03 Apr 19:00 20h 47m",
                 "team1": "Chelsea",
                 "team2": "Tottenham Hotspur",
                 "match_url": "https://crichd.su/chelsea-vs-tottenham-hotspur",
@@ -77,7 +63,7 @@
         "tournament": "F1",
         "matches": [
             {
-                "time": "04 Apr 02:00 1d 4h 9m",
+                "time": "04 Apr 02:00 1d 3h 47m",
                 "team1": "Japanese Grand Prix",
                 "team2": "F1",
                 "match_url": "https://crichd.su/japanese-grand-prix",
