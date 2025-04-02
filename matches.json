@@ -12,7 +12,7 @@
                 "extracted_data": []
             },
             {
-                "time": "03 Apr 14:00 18h 2m",
+                "time": "03 Apr 14:00 17h 32m",
                 "team1": "Kolkata Knight Riders",
                 "team2": "Sunrisers Hyderabad",
                 "match_url": "https://crichd.su/kkr-vs-srh",
@@ -21,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "04 Apr 14:00 1d 18h 2m",
+                "time": "04 Apr 14:00 1d 17h 32m",
                 "team1": "Mumbai Indians",
                 "team2": "Lucknow Super Giants",
                 "match_url": "https://crichd.su/mi-vs-lsg",
@@ -103,7 +103,7 @@
                 "extracted_data": []
             },
             {
-                "time": "03 Apr 19:00 23h 2m",
+                "time": "03 Apr 19:00 22h 32m",
                 "team1": "Chelsea",
                 "team2": "Tottenham Hotspur",
                 "match_url": "https://crichd.su/chelsea-vs-tottenham-hotspur",
@@ -145,7 +145,7 @@
         "tournament": "F1",
         "matches": [
             {
-                "time": "04 Apr 02:00 1d 6h 2m",
+                "time": "04 Apr 02:00 1d 5h 32m",
                 "team1": "Japanese Grand Prix",
                 "team2": "F1",
                 "match_url": "https://crichd.su/japanese-grand-prix",
