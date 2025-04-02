@@ -12,7 +12,7 @@
                 "extracted_data": []
             },
             {
-                "time": "03 Apr 14:00 19h 4m",
+                "time": "03 Apr 14:00 18h 41m",
                 "team1": "Kolkata Knight Riders",
                 "team2": "Sunrisers Hyderabad",
                 "match_url": "https://crichd.su/kkr-vs-srh",
@@ -21,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "04 Apr 14:00 1d 19h 4m",
+                "time": "04 Apr 14:00 1d 18h 41m",
                 "team1": "Mumbai Indians",
                 "team2": "Lucknow Super Giants",
                 "match_url": "https://crichd.su/mi-vs-lsg",
@@ -48,15 +48,6 @@
     {
         "tournament": "Premier League",
         "matches": [
-            {
-                "time": "02 Apr 18:45",
-                "team1": "Manchester City",
-                "team2": "Leicester City",
-                "match_url": "https://crichd.su/manchester-city-vs-leicester-city",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            },
             {
                 "time": "02 Apr 18:45",
                 "team1": "AFC Bournemouth",
@@ -94,7 +85,7 @@
                 "extracted_data": []
             },
             {
-                "time": "02 Apr 19:00 4m",
+                "time": "02 Apr 19:00",
                 "team1": "Liverpool",
                 "team2": "Everton",
                 "match_url": "https://crichd.su/liverpool-vs-everton",
@@ -103,7 +94,16 @@
                 "extracted_data": []
             },
             {
-                "time": "03 Apr 19:00 1d 4m",
+                "time": "02 Apr 19:45 26m",
+                "team1": "Manchester City",
+                "team2": "Leicester City",
+                "match_url": "https://crichd.su/manchester-city-vs-leicester-city",
+                "channel_links": [],
+                "iframe_sources": [],
+                "extracted_data": []
+            },
+            {
+                "time": "03 Apr 19:00 23h 41m",
                 "team1": "Chelsea",
                 "team2": "Tottenham Hotspur",
                 "match_url": "https://crichd.su/chelsea-vs-tottenham-hotspur",
@@ -117,7 +117,7 @@
         "tournament": "Coppa Italia",
         "matches": [
             {
-                "time": "02 Apr 19:00 4m",
+                "time": "02 Apr 19:00",
                 "team1": "Inter Milan",
                 "team2": "AC Milan",
                 "match_url": "https://crichd.su/inter-milan-vs-ac-milan",
@@ -131,7 +131,7 @@
         "tournament": "Copa Del Rey",
         "matches": [
             {
-                "time": "02 Apr 19:30 34m",
+                "time": "02 Apr 19:30 11m",
                 "team1": "Barcelona",
                 "team2": "Atletico Madrid",
                 "match_url": "https://crichd.su/barcelona-vs-atletico-madrid",
@@ -145,7 +145,7 @@
         "tournament": "F1",
         "matches": [
             {
-                "time": "04 Apr 02:00 1d 7h 4m",
+                "time": "04 Apr 02:00 1d 6h 41m",
                 "team1": "Japanese Grand Prix",
                 "team2": "F1",
                 "match_url": "https://crichd.su/japanese-grand-prix",
