@@ -12,7 +12,7 @@
                 "extracted_data": []
             },
             {
-                "time": "04 Apr 14:00 17h 9m",
+                "time": "04 Apr 14:00 16h 47m",
                 "team1": "Mumbai Indians",
                 "team2": "Lucknow Super Giants",
                 "match_url": "https://crichd.su/mi-vs-lsg",
@@ -21,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "05 Apr 10:00 1d 13h 9m",
+                "time": "05 Apr 10:00 1d 12h 47m",
                 "team1": "Chennai Super Kings",
                 "team2": "Delhi Capitals",
                 "match_url": "https://crichd.su/csk-vs-dc",
@@ -30,7 +30,7 @@
                 "extracted_data": []
             },
             {
-                "time": "05 Apr 14:00 1d 17h 9m",
+                "time": "05 Apr 14:00 1d 16h 47m",
                 "team1": "Punjab Kings",
                 "team2": "Rajasthan Royals",
                 "match_url": "https://crichd.su/pbks-vs-rr",
@@ -55,69 +55,10 @@
         ]
     },
     {
-        "tournament": "Premier League",
-        "matches": [
-            {
-                "time": "03 Apr 19:00",
-                "team1": "Chelsea",
-                "team2": "Tottenham Hotspur",
-                "match_url": "https://crichd.su/chelsea-vs-tottenham-hotspur",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            },
-            {
-                "time": "05 Apr 11:30 1d 14h 39m",
-                "team1": "Arsenal",
-                "team2": "Everton",
-                "match_url": "https://crichd.su/arsenal-vs-everton",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            },
-            {
-                "time": "05 Apr 14:00 1d 17h 9m",
-                "team1": "Crystal Palace",
-                "team2": "Brighton & Hove Albion",
-                "match_url": "https://crichd.su/crystal-palace-vs-brighton-hove-albion",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            },
-            {
-                "time": "05 Apr 14:00 1d 17h 9m",
-                "team1": "Ipswich Town",
-                "team2": "Wolverhampton Wanderers",
-                "match_url": "https://crichd.su/ipswich-town-vs-wolverhampton-wanderers",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            },
-            {
-                "time": "05 Apr 14:00 1d 17h 9m",
-                "team1": "West Ham United",
-                "team2": "AFC Bournemouth",
-                "match_url": "https://crichd.su/west-ham-united-vs-afc-bournemouth",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            },
-            {
-                "time": "05 Apr 16:30 1d 19h 39m",
-                "team1": "Aston Villa",
-                "team2": "Nottingham Forest",
-                "match_url": "https://crichd.su/aston-villa-vs-nottingham-forest",
-                "channel_links": [],
-                "iframe_sources": [],
-                "extracted_data": []
-            }
-        ]
-    },
-    {
         "tournament": "F1",
         "matches": [
             {
-                "time": "04 Apr 02:00 5h 9m",
+                "time": "04 Apr 02:00 4h 47m",
                 "team1": "Japanese Grand Prix",
                 "team2": "F1",
                 "match_url": "https://crichd.su/japanese-grand-prix",
@@ -128,10 +69,60 @@
         ]
     },
     {
+        "tournament": "Premier League",
+        "matches": [
+            {
+                "time": "05 Apr 11:30 1d 14h 17m",
+                "team1": "Arsenal",
+                "team2": "Everton",
+                "match_url": "https://crichd.su/arsenal-vs-everton",
+                "channel_links": [],
+                "iframe_sources": [],
+                "extracted_data": []
+            },
+            {
+                "time": "05 Apr 14:00 1d 16h 47m",
+                "team1": "Crystal Palace",
+                "team2": "Brighton & Hove Albion",
+                "match_url": "https://crichd.su/crystal-palace-vs-brighton-hove-albion",
+                "channel_links": [],
+                "iframe_sources": [],
+                "extracted_data": []
+            },
+            {
+                "time": "05 Apr 14:00 1d 16h 47m",
+                "team1": "Ipswich Town",
+                "team2": "Wolverhampton Wanderers",
+                "match_url": "https://crichd.su/ipswich-town-vs-wolverhampton-wanderers",
+                "channel_links": [],
+                "iframe_sources": [],
+                "extracted_data": []
+            },
+            {
+                "time": "05 Apr 14:00 1d 16h 47m",
+                "team1": "West Ham United",
+                "team2": "AFC Bournemouth",
+                "match_url": "https://crichd.su/west-ham-united-vs-afc-bournemouth",
+                "channel_links": [],
+                "iframe_sources": [],
+                "extracted_data": []
+            },
+            {
+                "time": "05 Apr 16:30 1d 19h 17m",
+                "team1": "Aston Villa",
+                "team2": "Nottingham Forest",
+                "match_url": "https://crichd.su/aston-villa-vs-nottingham-forest",
+                "channel_links": [],
+                "iframe_sources": [],
+                "extracted_data": []
+            }
+        ]
+    },
+    {
         "tournament": "LaLiga",
         "matches": [
             {
-                "time": "05 Apr 14:15 1d 17h 24m",
+                "time": "05 Apr 14:15 1d 17h 2m",
                 "team1": "Real Madrid",
                 "team2": "Valencia",
                 "match_url": "https://crichd.su/real-madrid-vs-valencia",
@@ -140,7 +131,7 @@
                 "extracted_data": []
             },
             {
-                "time": "05 Apr 19:00 1d 22h 9m",
+                "time": "05 Apr 19:00 1d 21h 47m",
                 "team1": "Barcelona",
                 "team2": "Real Betis",
                 "match_url": "https://crichd.su/barcelona-vs-real-betis",
