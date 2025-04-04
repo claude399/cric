@@ -21,7 +21,7 @@
                 "extracted_data": []
             },
             {
-                "time": "05 Apr 10:00 18h 13m",
+                "time": "05 Apr 10:00 18h 1m",
                 "team1": "Chennai Super Kings",
                 "team2": "Delhi Capitals",
                 "match_url": "https://crichd.su/csk-vs-dc",
@@ -30,7 +30,7 @@
                 "extracted_data": []
             },
             {
-                "time": "05 Apr 14:00 22h 13m",
+                "time": "05 Apr 14:00 22h 1m",
                 "team1": "Punjab Kings",
                 "team2": "Rajasthan Royals",
                 "match_url": "https://crichd.su/pbks-vs-rr",
@@ -39,7 +39,7 @@
                 "extracted_data": []
             },
             {
-                "time": "06 Apr 14:00 1d 22h 13m",
+                "time": "06 Apr 14:00 1d 22h 1m",
                 "team1": "Sunrisers Hyderabad",
                 "team2": "Gujarat Titans",
                 "match_url": "https://crichd.su/srh-vs-gt",
@@ -81,7 +81,7 @@
         "tournament": "Premier League",
         "matches": [
             {
-                "time": "05 Apr 11:30 19h 43m",
+                "time": "05 Apr 11:30 19h 31m",
                 "team1": "Arsenal",
                 "team2": "Everton",
                 "match_url": "https://crichd.su/arsenal-vs-everton",
@@ -90,7 +90,7 @@
                 "extracted_data": []
             },
             {
-                "time": "05 Apr 14:00 22h 13m",
+                "time": "05 Apr 14:00 22h 1m",
                 "team1": "Crystal Palace",
                 "team2": "Brighton & Hove Albion",
                 "match_url": "https://crichd.su/crystal-palace-vs-brighton-hove-albion",
@@ -99,7 +99,7 @@
                 "extracted_data": []
             },
             {
-                "time": "05 Apr 14:00 22h 13m",
+                "time": "05 Apr 14:00 22h 1m",
                 "team1": "Ipswich Town",
                 "team2": "Wolverhampton Wanderers",
                 "match_url": "https://crichd.su/ipswich-town-vs-wolverhampton-wanderers",
@@ -108,7 +108,7 @@
                 "extracted_data": []
             },
             {
-                "time": "05 Apr 14:00 22h 13m",
+                "time": "05 Apr 14:00 22h 1m",
                 "team1": "West Ham United",
                 "team2": "AFC Bournemouth",
                 "match_url": "https://crichd.su/west-ham-united-vs-afc-bournemouth",
@@ -117,7 +117,7 @@
                 "extracted_data": []
             },
             {
-                "time": "05 Apr 16:30 1d 43m",
+                "time": "05 Apr 16:30 1d 31m",
                 "team1": "Aston Villa",
                 "team2": "Nottingham Forest",
                 "match_url": "https://crichd.su/aston-villa-vs-nottingham-forest",
@@ -126,7 +126,7 @@
                 "extracted_data": []
             },
             {
-                "time": "06 Apr 13:00 1d 21h 13m",
+                "time": "06 Apr 13:00 1d 21h 1m",
                 "team1": "Liverpool",
                 "team2": "Fulham",
                 "match_url": "https://crichd.su/liverpool-vs-fulham",
@@ -135,7 +135,7 @@
                 "extracted_data": []
             },
             {
-                "time": "06 Apr 13:00 1d 21h 13m",
+                "time": "06 Apr 13:00 1d 21h 1m",
                 "team1": "Chelsea",
                 "team2": "Brentford",
                 "match_url": "https://crichd.su/chelsea-vs-brentford",
@@ -144,7 +144,7 @@
                 "extracted_data": []
             },
             {
-                "time": "06 Apr 13:00 1d 21h 13m",
+                "time": "06 Apr 13:00 1d 21h 1m",
                 "team1": "Southampton",
                 "team2": "Tottenham Hotspur",
                 "match_url": "https://crichd.su/southampton-vs-tottenham-hotspur",
@@ -158,7 +158,7 @@
         "tournament": "LaLiga",
         "matches": [
             {
-                "time": "05 Apr 14:15 22h 28m",
+                "time": "05 Apr 14:15 22h 16m",
                 "team1": "Real Madrid",
                 "team2": "Valencia",
                 "match_url": "https://crichd.su/real-madrid-vs-valencia",
@@ -167,7 +167,7 @@
                 "extracted_data": []
             },
             {
-                "time": "05 Apr 19:00 1d 3h 13m",
+                "time": "05 Apr 19:00 1d 3h 1m",
                 "team1": "Barcelona",
                 "team2": "Real Betis",
                 "match_url": "https://crichd.su/barcelona-vs-real-betis",
@@ -181,7 +181,7 @@
         "tournament": "UFC",
         "matches": [
             {
-                "time": "06 Apr 01:00 1d 9h 13m",
+                "time": "06 Apr 01:00 1d 9h 1m",
                 "team1": "Josh Emmett vs Lerone Murphy",
                 "team2": "UFC",
                 "match_url": "https://crichd.su/josh-emmett-vs-lerone-murphy",
